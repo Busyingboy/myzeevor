@@ -1,0 +1,12 @@
+server:
+  port: 2003
+  
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:2001/eureka/
+
+spring:
+  application:
+    name: service-ribbon
+#--spring.profiles.active=two 启动多个实例

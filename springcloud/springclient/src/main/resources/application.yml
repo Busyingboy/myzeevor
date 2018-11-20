@@ -1,0 +1,14 @@
+server:
+  port: 2002
+
+spring:
+  application:
+    name: springclient
+    
+
+eureka:
+  instance:
+    instance-id: spring-cloud-front1
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:2001/eureka/

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: pc
+Build-Jdk: 9
+Implementation-Title: service-ribbon
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.java
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springcloud/sever-ribbon
+Created-By: Maven Integration for Eclipse
+
